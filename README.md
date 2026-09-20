@@ -28,7 +28,7 @@ Placed 2nd at Codeferno, an interschool coding competition,
 as a 10th grader competing against 11th and 12th graders.
 
 🧮 **Coding Since Age 10**  
-It started through LEGO-> Block coding with EV3 -> Basics of Python with Cuemath in 3rd grade.
+It started through LEGO-> Block coding with EV3 -> Basics of Python with Cuemath in 4th grade.
 
 ---
 
