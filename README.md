@@ -32,7 +32,7 @@ It started through LEGO-> Block coding with EV3 -> Basics of Python with Cuemath
 
 ---
 
-## 🤖 AURA — Initiative Head Coder, Managed the Coding Team
+## 🤖 AURA — Head Coder & Team Lead
 
 <img width="500" alt="AURA Interface" src="https://github.com/user-attachments/assets/b7ea6c56-09e1-4248-8e8c-3b59490de0b9" />
 
