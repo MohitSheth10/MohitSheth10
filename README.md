@@ -11,7 +11,7 @@
 
 ---
 
-## 🏆 Highlights
+## ✨ A Few Things About Me
 
 🥇 **International Mathematics Champion**  
 1st place among 60 international teams at the Infinity Maths Competition —  
