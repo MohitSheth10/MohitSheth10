@@ -21,7 +21,7 @@ I led a team of 3 and wrote 800+ lines of Python. Silver in the online round, br
 👉 [See Soul Sync](https://github.com/MohitSheth10/Soul-Sync)
 
 🚆 **Rail-Guard: finding loose railway bolts from vibration**  
-I built this one alone: a bench-scale prototype that classified all 18 controlled test recordings correctly. Submitted to IRIS.  
+I built this one alone: a bench-scale prototype whose test data supported the hypothesis, pointing to a possible real-world use. Submitted to IRIS.  
 👉 [See Rail-Guard](https://github.com/MohitSheth10/Rail-Guard)
 
 🤝 **Quorum: a Discord bot that finds when a group is free**  
