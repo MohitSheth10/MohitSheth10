@@ -29,7 +29,7 @@ Built the summer before 10th grade after scheduling kept going wrong with my fri
 👉 [See Quorum](https://github.com/MohitSheth10/Quorum)
 
 🌐 **Origin SMP: a Discord community I founded and run**  
-A 700-member community with a staff team of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
+An 850-member community with a staff team of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
 
 🥈 **2nd at Codeferno, an interschool coding competition**  
 As a 10th grader, against 11th and 12th graders.
