@@ -28,7 +28,7 @@ I built this one alone: a bench-scale prototype whose test data supported the hy
 Built the summer before 10th grade after scheduling kept going wrong with my friends. It converts everyone's free hours across timezones and finds the slot with the most people.  
 👉 [See Quorum](https://github.com/MohitSheth10/Quorum)
 
-🌐 **Origin SMP: a Discord community I founded and run**  
+🌐 **Origin: a community I founded and run**  
 An 850-member community with a staff team of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
 
 🥈 **2nd at Codeferno, an interschool coding competition**  
