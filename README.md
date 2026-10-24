@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohit 👋</h1>
 
 <p align="center">
-  I write Python and lead the coding on student robotics projects.<br>
+  Having lead the coding on several robotics projects, I love coding python in my free time.<br>
   I've built two face-recognizing robots with my school teams, and I compete in math and coding contests.
 </p>
 
