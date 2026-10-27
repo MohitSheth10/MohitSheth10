@@ -7,7 +7,7 @@
 
 ---
 
-## 🏆 Some of my Projects
+## 🏆 Projects
 🤖 **AURA: my school's first student-built humanoid robot**  
 At 15, I led the coding team and built the entire GUI and every feature in it. I taught my teammates Python and delegated their parts. AURA launched in front of 3,000 parents and students at Blitzing 2025, and was featured in the Times of India Education Guide on December 17, 2025.  
 👉 [See AURA](https://github.com/MohitSheth10/Humanoid-Bot)
