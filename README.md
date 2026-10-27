@@ -7,11 +7,7 @@
 
 ---
 
-## 🏆 Highlights
-
-🥇 **1st of 60 international teams, Infinity Maths Competition**  
-In 10th grade. Highest cumulative score across all rounds.
-
+## 🏆 Some of my Projects
 🤖 **AURA: my school's first student-built humanoid robot**  
 At 15, I led the coding team and built the entire GUI and every feature in it. I taught my teammates Python and delegated their parts. AURA launched in front of 3,000 parents and students at Blitzing 2025, and was featured in the Times of India Education Guide on December 17, 2025.  
 👉 [See AURA](https://github.com/MohitSheth10/Humanoid-Bot)
@@ -30,6 +26,8 @@ Built the summer before 10th grade after scheduling kept going wrong with my fri
 
 🌐 **Origin: a community I founded and run**  
 An 850-member community with a staff team of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
+
+Related: 
 
 🥈 **2nd at Codeferno, an interschool coding competition**  
 As a 10th grader, against 11th and 12th graders.
