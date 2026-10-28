@@ -8,8 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/MohitSheth10?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FMohitSheth10%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20(last%20year)&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Contributions"/>
-  <img src="https://komarev.com/ghpvc/?username=MohitSheth10&label=Profile+views&style=for-the-badge&color=181717" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=byte-razer&label=Profile+views&style=for-the-badge&color=181717" alt="Profile views"/>
 </p>
 
 <p>
