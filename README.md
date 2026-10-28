@@ -4,7 +4,7 @@
 
 <h3>Studying at the intersection of math, problem solving and Python coding</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Head+Coder+on+a+student-built+humanoid%2C+featured+in+the+Times+of+India;Coded+two+face-recognizing+robots+with+machine+learning;Silver+and+Bronze+at+WRO+Future+Innovators;Award-winning+in+interschool+math+and+coding+contests;Founder+of+a+900-member+community" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Head+Coder+on+a+student-built+humanoid%2C+featured+in+the+Times+of+India;Coded+two+face-recognizing+robots+with+machine+learning;Silver+and+Bronze+at+WRO+Future+Innovators;Podium+finisher+in+interschool+math+and+coding+competitions;Founder+of+a+900-member+community" alt="Typing animation" />
 
 <p>
   <img src="https://img.shields.io/github/followers/MohitSheth10?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
