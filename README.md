@@ -4,7 +4,7 @@
 
 <h3>Studying at the intersection of math, problem solving and Python coding</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Head+coder+and+team+lead+on+my+school's+first+humanoid+robot;WRO+Future+Innovators%3A+silver+and+bronze;Built+a+rail+bolt+detector+from+vibration+data;Founder+of+an+850-member+community" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Head+Coder+on+a+student-built+humanoid%2C+featured+in+the+Times+of+India;Coded+two+face-recognizing+robots+with+machine+learning;WRO+Future+Innovators%3A+silver+and+bronze;Founder+of+a+900-member+community" alt="Typing animation" />
 
 <p>
   <img src="https://img.shields.io/github/followers/MohitSheth10?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub followers"/>
@@ -26,7 +26,7 @@
 
 I write Python to solve problems and use math to test whether the solution works. I've been coding since 3rd grade (LEGO EV3 block coding first, then Python) and I'm halfway through Harvard's CS50 Python.
 
-I've led the coding on two face-recognizing robots with my school teams, built a sensor rig that tells tight railway bolts from loose ones, and run an 850-member online community with a staff of about 30.
+I've led the coding on two face-recognizing robots with my school teams, built a sensor rig that tells tight railway bolts from loose ones, and run an 900-member online community with a staff of about 30.
 
 **How I work:** I start from a real problem, build the smallest version that runs, test it on real data, and write down what didn't work. Rail-Guard and Quorum both have a problem log in their docs.
 
@@ -39,7 +39,7 @@ I've led the coding on two face-recognizing robots with my school teams, built a
 - **WRO Future Innovators:** team lead and coder for Soul Sync. Silver in the online round, bronze at regionals.
 - **World Robot Olympiad event team:** invited after competing. Helped evaluate 42 teams, shadow-judged 12 projects, sat in on the meeting that chose the 6 teams going to nationals, and gave the closing speech.
 - **2nd place, Codeferno** (interschool coding competition), as a 10th grader against 11th and 12th graders.
-- **Founder of Quorum** (a Discord scheduling bot, built in 9th grade) **and of Origin:** an 850-member community with a staff of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
+- **Founder of Quorum** (a Discord scheduling bot, built in 9th grade) **and of Origin:** an 900-member community with a staff of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
 
 ---
 
