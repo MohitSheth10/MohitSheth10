@@ -26,7 +26,7 @@
 
 I write Python to solve problems and use math to test whether the solution works. I've been coding since 3rd grade (LEGO EV3 block coding first, then Python) and I'm halfway through Harvard's CS50 Python.
 
-I've led the coding on two face-recognizing robots with my school teams, built a sensor rig that tells tight railway bolts from loose ones, and run an 1k-member online community with a staff of about 30.
+I've led the coding on two face-recognizing robots with my school teams, built a sensor rig that tells tight railway bolts from loose ones, and run a 1k-member online community with a staff of about 30.
 
 **How I work:** I start from a real problem, build the smallest version that runs, test it on real data, and write down what didn't work. Rail-Guard and Quorum both have a problem log in their docs.
 
@@ -39,7 +39,7 @@ I've led the coding on two face-recognizing robots with my school teams, built a
 - **WRO Future Innovators:** team lead and coder for Soul Sync. Silver in the online round, bronze at regionals.
 - **World Robot Olympiad event team:** invited after competing. Helped evaluate 42 teams, shadow-judged 12 projects, sat in on the meeting that chose the 6 teams going to nationals, and gave the closing speech.
 - **2nd place, Codeferno** (interschool coding competition), as a 10th grader against 11th and 12th graders.
-- **Founder of Quorum** (a Discord scheduling bot, built in 9th grade) **and of Origin:** an 1k-member community with a staff of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
+- **Founder of Quorum** (a Discord scheduling bot, built in 9th grade) **and of Origin:** a 1k-member community with a staff of about 30 and a full event calendar. I handle hosting, hiring and managing staff, and the events.
 
 ---
 
