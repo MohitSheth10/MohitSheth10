@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="Mohit Sheth. 3,000+ audience at the AURA launch. Featured in the Times of India. Coded 2 humanoids by 16. Started coding at 9.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#1f3a5f"/>
+      <stop offset="1" stop-color="#2f6fb3"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t{font-family:"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+      .name{font-size:46px;font-weight:700;fill:#fff}
+      .sub{font-size:17px;fill:#c9d7e8}
+      .num{font-size:29px;font-weight:700;fill:#fff}
+      .lab{font-size:14px;fill:#b7c9df}
+      .pulse{animation:p 3s ease-in-out infinite;transform-origin:980px 78px}
+      @keyframes p{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(1.25);opacity:.9}}
+    </style>
+  </defs>
+  <rect width="1100" height="320" rx="14" fill="url(#bg)"/>
+  <circle class="pulse" cx="980" cy="78" r="70" fill="url(#orb)"/>
+  <circle cx="980" cy="78" r="9" fill="#58a6ff"/>
+  <text class="t name" x="48" y="82">Mohit Sheth</text>
+  <text class="t sub" x="50" y="114">Math · Problem Solving · Python Coding</text>
+
+  <g transform="translate(48,150)">
+    <rect width="236" height="130" rx="10" fill="#0d1117" fill-opacity="0.55" stroke="#58a6ff" stroke-opacity="0.35"/>
+    <text class="t num" x="20" y="58">3,000+</text>
+    <text class="t lab" x="20" y="88">audience at the AURA</text>
+    <text class="t lab" x="20" y="108">humanoid launch</text>
+  </g>
+  <g transform="translate(300,150)">
+    <rect width="236" height="130" rx="10" fill="#0d1117" fill-opacity="0.55" stroke="#58a6ff" stroke-opacity="0.35"/>
+    <text class="t num" x="20" y="58">Featured</text>
+    <text class="t lab" x="20" y="88">in the Times of India</text>
+    <text class="t lab" x="20" y="108">Education Guide</text>
+  </g>
+  <g transform="translate(552,150)">
+    <rect width="236" height="130" rx="10" fill="#0d1117" fill-opacity="0.55" stroke="#58a6ff" stroke-opacity="0.35"/>
+    <text class="t num" x="20" y="58">2 humanoids</text>
+    <text class="t lab" x="20" y="88">coded by the time</text>
+    <text class="t lab" x="20" y="108">I was 16</text>
+  </g>
+  <g transform="translate(804,150)">
+    <rect width="248" height="130" rx="10" fill="#0d1117" fill-opacity="0.55" stroke="#58a6ff" stroke-opacity="0.35"/>
+    <text class="t num" x="20" y="58">Age 9</text>
+    <text class="t lab" x="20" y="88">when I started coding</text>
+    <text class="t lab" x="20" y="108">(LEGO EV3, then Python)</text>
+  </g>
+</svg>
