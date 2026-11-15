@@ -87,9 +87,5 @@ I've led the coding on two face-recognizing robots with my school teams, built a
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSheth10&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f6fb3,100:0d1117&height=100&section=footer" width="100%" alt=""/>
 </div>
